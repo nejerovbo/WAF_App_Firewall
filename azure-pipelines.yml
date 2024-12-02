@@ -32,4 +32,4 @@ steps:
     nexusIqService: 'NexusIQ'
     applicationId: 'WAF'
     stage: 'Build'
-    scanTargets: '**/*.jar, **/*.war, **/*.ear, **/*.zip, **/*.tar.gz, **'
+    scanTargets: ''
